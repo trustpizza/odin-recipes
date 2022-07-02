@@ -1,0 +1,7 @@
+.title1 {
+   color: red;
+   text-align: center;
+}
+.title1.subtitle.subtitle {
+    color: blue
+}
